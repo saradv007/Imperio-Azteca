@@ -1,7 +1,26 @@
 <!DOCTYPE html>
 <html>
-<tittle> Imperio Azteca </tittle>
+<head>
+<style>
+body {
+  background-color:grey;
+  opacity: 0.6;
+}
+  
+h1  {
+  color: green;
+}
+
+
+</style>
+</head>
 <body>
+
+<h1 align= 'center'>EL IMPERIO AZTECA</h1>  
+
+
+	</body>
+
 
 <h1 align='center'> Características </h1>
 <p>Asimismo, destacaron en las construcciones arquitectónicas como todo lo que pertenecía a la capital de Tenochtitlan, como las pirámides. La orfebrería, la escultura, la literatura, la astronomía y la música eran también áreas en las que destacaban.</p>
@@ -14,7 +33,6 @@ ul.a {
 
 </style>
 </head>
-<body>
 
 <ul class="a">
   <li>Habitaron el valle de México durante 200 años: desde 1325 d. C., hasta la conquista de los españoles en 1521 d. C.</li>
