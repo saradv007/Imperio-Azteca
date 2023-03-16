@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<tittle> Imperio Azteca </tittle>
+<body>
+
+<h1 align='center'> Características </h1>
+<p>Asimismo, destacaron en las construcciones arquitectónicas como todo lo que pertenecía a la capital de Tenochtitlan, como las pirámides. La orfebrería, la escultura, la literatura, la astronomía y la música eran también áreas en las que destacaban.</p>
+
+<head>
+<style>
+ul.a {
+  list-style-type: circle;
+}
+
+</style>
+</head>
+<body>
+
+<ul class="a">
+  <li>Habitaron el valle de México durante 200 años: desde 1325 d. C., hasta la conquista de los españoles en 1521 d. C.</li>
+  <li>A partir de la alianza de las ciudades Tenochtitlán, Texcoco y Tlacopan, crearon un imperio centralizado y teocrático, gobernado por un tlatoani.</li>
+  <li>    Tenían una sociedad estratificada, dividida en tres grupos: pipiltin (nobles), macehualtin (gente común) y los esclavos.</li>
+  <li>Desarrollaron una economía basada en la imposición de tributos, la tecnología agrícola y el comercio.</li>
+  <li>    Tuvieron una religión politeísta que influenciaba todos los aspectos de la vida social y política.</li>
+  <li>    Profundizaron los conocimientos en astronomía y crearon un sistema de escritura propio.</li>
+</ul>
+</html>
+
